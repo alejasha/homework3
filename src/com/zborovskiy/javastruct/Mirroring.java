@@ -25,10 +25,10 @@ class StackM {
 }
 
 
-public class Mirror {
+public class Mirroring {
     private String input;
 
-    public Mirror(String in) {
+    public Mirroring(String in) {
         input = in;
     }
 
