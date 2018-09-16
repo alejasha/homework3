@@ -2,7 +2,7 @@ package com.zborovskiy.javastruct;
 
 public class Main {
     public static void main(String[] args) {
-        Mirror mirror = new Mirror("ytrewq");
+        Mirroring mirror = new Mirroring("ytrewq");
         mirror.mkMirror();
-    }   
+    }
 }
